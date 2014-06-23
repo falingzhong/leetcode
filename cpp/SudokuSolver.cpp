@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
-*   Basic Ideal: use three matrix to record if the value is used.
+*   Basic Idea: use three matrix to record if the value is used.
 *   Borrow the ideal of dfs.
 */
 class Solution {
